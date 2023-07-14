@@ -1,0 +1,40 @@
+.box1{
+    width: 98%;
+    height: 400px;
+    background-color: royalblue;
+    margin: 15px;
+}
+.box2{
+    width: 98%;
+    height: 400px;
+    margin: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+.box_in2{
+    width: 32%;
+    height: 400px;
+    background-color: mediumblue;
+    margin: 10px 0 10px 0;
+}
+.box3{
+    width: 98%;
+    height: 600px;
+    background-color: royalblue;
+    margin: 30px 15px;
+}
+.in_centre{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.bigC{
+    font-family: Calibri;
+    font-size: 80px;
+    color: beige;
+}
+.smallT{
+    font-family: Calibri;
+    font-size: 40px;
+    color: beige;
+}
