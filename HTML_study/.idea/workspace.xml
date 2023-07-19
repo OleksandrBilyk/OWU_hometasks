@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33b97d5a-cb17-48f6-9d7d-e9d1d375fae7" name="Changes" comment="" />
+    <list default="true" id="33b97d5a-cb17-48f6-9d7d-e9d1d375fae7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Lession_1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lession_1/.idea/modules.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2ST12Sq3RMywWG8v4mjDDVaOJ4y" />
   <component name="ProjectViewState">
@@ -14,9 +19,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/OWU_study/My_hometask/HTML/HTML_study/Lession_1",
+    "last_opened_file_path": "D:/OWU_study/My_hometask/HTML/HTML_study",
     "settings.editor.selected.configurable": "project.scopes",
     "vue.rearranger.settings.migration": "true"
   }
@@ -30,6 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1689155550322</updated>
       <workItem from="1689155551309" duration="272000" />
+      <workItem from="1689689501069" duration="13000" />
     </task>
     <servers />
   </component>
