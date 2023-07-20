@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Victor+Mono&display=swap');
 body{
     margin: 0;
 }
@@ -6,6 +7,7 @@ body{
     height: 50vh;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
 }
 #salmon{
@@ -14,15 +16,16 @@ body{
 #black{
     background-color: black;
     color: aliceblue;
-
 }
 h4{
     font-size: 2em;
-    font-family: "Calibri Light";
+    font-family: 'Victor Mono', monospace;
+    margin-top: 0;
 }
 p{
     font-size: 1.4em;
-    font-family: Calibri;
+    font-family: 'Victor Mono', monospace;
     margin: 2vh;
-    padding:  0 5vw;
+    padding: 0 5vw;
     text-align: center;
+}
