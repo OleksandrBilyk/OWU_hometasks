@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+}
+header{
+    height: 22vh;
+    width: 100vw;
+    background-color: #927D7D;
+}
+main{
+    height: 56vh;
+    width: 100vw;
+    display: flex;
+}
+article{
+    height: 56vh;
+    width: 20vw;
+}
+section{
+    height: 56vh;
+    width: 60vw;
+    display: flex;
+    flex-direction: column;
+}
+div{
+    height: 12vh;
+    width: 60vw;
+}
+#inner{
+    height: 32vh;
+    width: 60vw;
+    display: flex;
+    flex-direction: row;
+}
+#d_left{
+    height: 32vh;
+    width: 12vw;
+    background-color: #473434;
+}
+#d_center{
+    height: 32vh;
+    width: 36vw;
+    background-color: #A74848;
+}
+#d_right{
+    height: 32vh;
+    width: 12vw;
+    background-color: #925A5A;
+}
+footer{
+    height: 22vh;
+    width: 100vw;
+    background-color: #BDBDBD;
+}

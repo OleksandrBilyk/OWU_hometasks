@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+body{
+    height: 100vh;
+    margin: 0;
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    height: 50vh;
+    width: 50vw;
+    background-color: white;
+    border-radius: 10px;
+    border-style: hidden;
+}
+header{
+    height: 12.5vh;
+    background-color: #e9f8ef;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 2.2em;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+}
+#user{
+    height: 4vh;
+    width: 30vw;
+    font-family: 'Raleway', sans-serif;
+}
+#pass{
+    height: 4vh;
+    width: 30vw;
+    margin: 10px;
+    font-family: 'Raleway', sans-serif;
+}
+div{
+    height: 4vh;
+    width: 30vw;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Raleway', sans-serif;
+}
+#enter{
+    height: 4vh;
+    width: 6vw;
+    border-radius: 9px;
+    border-color: lightgray;
+    border-style: solid;
+}

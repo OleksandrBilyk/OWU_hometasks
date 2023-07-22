@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Roboto+Condensed&family=Roboto+Mono:wght@600&display=swap');
+body{
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+}
+main{
+    height: 570px;
+    width: 426px;
+    background-color: white;
+    padding: 20px;
+}
+section{
+    height: 85%;
+    width: 100%;
+    border: 1px solid lightgrey;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+img{
+    width: 60%;
+    margin: 6vh 0 4vh;
+}
+form{
+    height: 33%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+}
+#user{
+    height: 25px;
+    padding: 8px;
+    background-color: #f5f5f5;
+    border-color: lightgrey;
+    border-style: solid;
+    border-radius: 3px;
+    margin-bottom: 8px;
+    font-family: 'Roboto Mono', monospace;
+}
+#password{
+    height: 25px;
+    padding: 8px;
+    background-color: #f5f5f5;
+    border-color: lightgrey;
+    border-radius: 3px;
+    border-style: solid;
+    margin-bottom: 15px;
+    font-family: 'Roboto Mono', monospace;
+}
+#button{
+    height: 40px;
+    background-color: #4ea5ef;
+    border-radius: 10px;
+    border-style: hidden;
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.1em;
+}
+#button:active{
+    background-color: #3D6FB4;
+}
+p{
+    margin: 10px 0 20px 0;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.1em;
+    color: #716B6B;
+}
+div{
+    height: 50px;
+    width: 60%;
+    display: flex;
+    align-items: center;
+}
+#icon_f{
+    height: 36px;
+    width: 36px;
+    margin: 0;
+}
+#faceb_link{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.3em;
+    text-decoration: none;
+    color: darkblue;
+}
+#lost_pass{
+    font-family: 'Roboto Mono', monospace;
+    text-decoration: none;
+    color: darkslateblue;
+}
+footer{
+    height: 12%;
+    width: 100%;
+    margin-top: 15px;
+    border: 1px solid lightgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h5{
+    font-family: 'Inter', sans-serif;
+    font-size: 1em;
+    margin-right: 5px;
+}
+a{
+    font-family: 'Inter', sans-serif;
+    font-size: 1em;
+    text-decoration: none;
+    color: #1a8be8;
+}
