@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+header{
+    height: 25vh;
+    width: 100vw;
+    background-color: #D9D9D9;
+}
+main{
+    height: 75vh;
+    width: 100vw;
+    display: flex;
+}
+#column_1{
+    height: 75vh;
+    width: 25vw;
+    background-color: #909090;
+}
+#column_2{
+    height: 75vh;
+    width: 25vw;
+    background-color: #645F5F;
+}
+#column_3{
+    height: 75vh;
+    width: 20vw;
+    background-color: #A59D9D;
+}
+#column_4{
+    height: 75vh;
+    width: 20vw;
+    background-color: #878585;
+}
+#column_5{
+    height: 75vh;
+    width: 10vw;
+    background-color: #4E4444;
+}

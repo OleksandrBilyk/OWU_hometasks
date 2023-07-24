@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+header{
+    height: 22vh;
+    width: 100vw;
+    background-color: #D9D9D9;
+}
+main{
+    height: 55vh;
+    width: 100vw;
+    display: flex;
+}
+#left{
+    height: 55vh;
+    width: 33.3vw;
+    background-color: #CCCCCC;
+}
+#center{
+    height: 55vh;
+    width: 33.3vw;
+    background-color: #848383;
+}
+#right{
+    height: 55vh;
+    width: 33.4vw;
+    background-color: #656565;
+}
+footer{
+    height: 23vh;
+    width: 100vw;
+    background-color: #ACABAB;
+}
