@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Lumanosimo&display=swap');
+body{
+    margin: 0;
+}
+main{
+    height: 96vh;
+    width: 96vw;
+    padding: 3vh 1vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+div{
+    height: auto;
+    width: 40vw;
+    margin: 5vh 0;
+    border: solid #716B6B;
+    border-radius: 10px;
+    display: flex;
+    flex-flow: column nowrap;
+}
+p{
+    margin: 1vh 0 0 1vw;
+    font-family: 'Lumanosimo', cursive;
+    font-size: 1.1em;
+}
+ul{
+    margin-top: 0;
+}
+#general_list1>ul>li:nth-child(even){
+    color: #F50099;
+}
+#general_list2>ul>li:nth-child(odd){
+    font-size: 22px;
+}
+#general_list3>ul>li:nth-child(2n+4)::after{
+    content: "!";
+}
+#general_list4>ul>li:last-child{
+    color: violet;
+}
+#general_list5>ul>li:first-letter{
+    color: red;
+    font-size: 30px;
+}
+

@@ -37,6 +37,7 @@ form{
     border-radius: 3px;
     margin-bottom: 8px;
     font-family: 'Roboto Mono', monospace;
+    text-overflow: ellipsis;
 }
 #password{
     height: 25px;
