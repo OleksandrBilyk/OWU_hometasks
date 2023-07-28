@@ -1,0 +1,39 @@
+@media screen and (min-width: 460px) and (max-width: 800px){
+    body{
+        display: flex;
+    }
+    header{
+        height: 97vh;
+        width: 20vw;
+    }
+    main{
+        height: 97vh;
+        width: 80vw;
+        flex-direction: row;
+        margin: 10px 10px 10px 0;
+    }
+    div{
+        height: 97vh;
+        width: 59vw;
+        flex-direction: row;
+    }
+    nav{
+        height: 97vh;
+        width: 30vw;
+        flex-direction: column;
+    }
+    #div_section {
+        height: 97vh;
+        width: 30vw;
+        flex-direction: column;
+    }
+    section{
+        height: 30vh;
+        width: 28vw;
+    }
+    article {
+        height: 97vh;
+        width: 19vw;
+        margin: 0;
+    }
+}

@@ -1,0 +1,31 @@
+@media screen and (max-width: 460px){
+    header{
+        height: 20vh;
+    }
+    main{
+        height: 75vh;
+        flex-direction: column;
+    }
+    div{
+        height: 30vh;
+        width: 98vw;
+    }
+    nav{
+        height: 13vh;
+        width: 97vw;
+    }
+    #div_section {
+        height: 13vh;
+        width: 97vw;
+        margin-top: 10px;
+    }
+    section{
+        height: 13vh;
+        width: 24vw;
+    }
+    article {
+        height: 50vh;
+        width: 97vw;
+        margin: 10px 0 0 0;
+    }
+}

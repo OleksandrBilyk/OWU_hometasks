@@ -1,0 +1,23 @@
+@media screen and (max-width: 460px) {
+    header{
+        height: 15vh;
+        width: 96vw;
+        margin: 10px;
+    }
+    div{
+         flex-direction: column;
+         height: 80vh;
+         width: 96vw;
+         display: flex;
+     }
+    main{
+        height: 59vh;
+        width: 96vw;
+
+    }
+    article {
+        height: 15vh;
+        width: 96vw;
+        margin: 10px 0 0 0;
+    }
+}

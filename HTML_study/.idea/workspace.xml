@@ -1,16 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="33b97d5a-cb17-48f6-9d7d-e9d1d375fae7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Lession_1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lession_1/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="33b97d5a-cb17-48f6-9d7d-e9d1d375fae7" name="Changes" comment="Lesson5 done">
+      <change afterPath="$PROJECT_DIR$/Lesson_6/task1/lesson6_task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_6/task1/style_task1_desktop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_6/task1/style_task1_phone.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9486da84-01ec-40a5-8625-872f1cbba897" />
+        <option name="url" value="https://github.com/OleksandrBilyk/OWU_hometasks.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2ST12Sq3RMywWG8v4mjDDVaOJ4y" />
   <component name="ProjectViewState">
@@ -19,14 +45,31 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/OWU_study/My_hometask/HTML/HTML_study",
+    "last_opened_file_path": "D:/OWU_study/My_hometask/HTML/HTML_study/Lesson_5/Task2/icons",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "project.scopes",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OWU_study\My_hometask\HTML\HTML_study\Lesson_5\Task2\icons" />
+      <recent name="D:\OWU_study\My_hometask\HTML\HTML_study\Lesson_5\Task1" />
+      <recent name="D:\OWU_study\My_hometask\HTML\HTML_study\Lesson_4\task6" />
+      <recent name="D:\OWU_study\My_hometask\HTML\HTML_study\Lesson_4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OWU_study\My_hometask\HTML\HTML_study\Lesson_4\task1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,10 +80,71 @@
       <updated>1689155550322</updated>
       <workItem from="1689155551309" duration="272000" />
       <workItem from="1689689501069" duration="13000" />
+      <workItem from="1689699929470" duration="128554000" />
     </task>
+    <task id="LOCAL-00001" summary="Lesson3 done">
+      <option name="closed" value="true" />
+      <created>1689780135832</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689780135832</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lesson3 done+correction">
+      <option name="closed" value="true" />
+      <created>1689865600244</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689865600244</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lesson4 task1-3">
+      <option name="closed" value="true" />
+      <created>1690041076640</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690041076640</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lesson4 full done">
+      <option name="closed" value="true" />
+      <created>1690213138618</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690213138619</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lesson5 done">
+      <option name="closed" value="true" />
+      <created>1690375032209</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690375032209</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson3 done" />
+    <MESSAGE value="Lesson3 done+correction" />
+    <MESSAGE value="Lesson4 task1-3" />
+    <MESSAGE value="Lesson4 full done" />
+    <MESSAGE value="Lesson5 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson5 done" />
   </component>
 </project>

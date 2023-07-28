@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+}
+header{
+    height: 28vh;
+    width: 97vw;
+    margin: 10px;
+}
+main{
+    height: 68vh;
+    width: 97vw;
+    margin: 10px;
+    display: flex;
+}
+div{
+    height: 68vh;
+    width: 75vw;
+    display: flex;
+    flex-direction: column;
+ }
+article{
+    height: 65vh;
+    width: 23vw;
+    margin: 0 0 0 10px;
+}
+nav{
+    height: 32vh;
+    width: 75vw;
+}
+#div_section {
+    height: 33vh;
+    width: 75vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+section{
+    height: 31.5vh;
+    width: 24vw;
+}
+.bloks{
+    border: 1px solid #868686;
+    border-radius: 12px;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+}
