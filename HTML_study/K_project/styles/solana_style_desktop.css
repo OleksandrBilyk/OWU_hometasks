@@ -1,0 +1,322 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    margin: 0;
+}
+/*   ------------ first page  ------------------------*/
+header{
+    height: 4vh;
+    width: 100vw;
+    background: var(--s-gradient-2, linear-gradient(229deg, #0047FF 0%, #00BCD4 100%));
+}
+#link_in_header{
+    color: #000;
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    font-size: 17px;
+    line-height: 28px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+#first_page{
+    height: 96vh;
+    width: 100vw;
+    background-color: #000000;
+}
+#navigation{
+    height: 5vh;
+    width: 100vw;
+    justify-content: space-around;
+    padding-top: 1vh;
+}
+nav.flex_centered{
+    width: 35vw;
+    justify-content: space-evenly;
+}
+#hero_content{
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+}
+h2{
+    color: #FFF;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 70px;
+    line-height: 76px;
+    letter-spacing: 0.68px;
+    margin: 0;
+}
+#hero_content>p{
+    width: 45vw;
+    color: #FFF;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 21px;
+    line-height: 27px;
+    margin: 7vh 0;
+}
+#button_start{
+    height: 7vh;
+    width: 13vw;
+    border-radius: 36px;
+    border: 1px solid #000;
+    background: var(--s-button, linear-gradient(152deg, #8C01FA 0%, #000 100%));
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+button{
+    height: 7vh;
+    width: 12vw;
+    border-radius: 36px;
+    border: 1px solid #FFF;
+    background: #000;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+#client{
+    height: 20vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h6{
+    color: #618ADC;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin: 0 0 4vh 0;
+}
+#client_group{
+    height: 6vh;
+    width: 80vw;
+    margin-top: 2vh;
+    display: flex;
+    justify-content: space-around;
+}
+#client_group>img{
+    object-fit: none;
+}
+#client_group>img:hover{
+    width: 20%;
+    height: auto;
+}
+/* ----------------------- first page  ----------------------------*/
+/* ----------------------- second page  ----------------------------*/
+#second_page{
+    height: 100vh;
+    width: 100vw;
+    background-color: #000000;
+    align-items: end;
+    justify-content: space-around;
+}
+#left_text_section{
+    height: 80vh;
+    width: 26vw;
+}
+#right_text_section{
+    height: 80vh;
+    width: 32vw;
+}
+#right_text_section>h4{
+    font-size: 101px;
+    line-height: 132px;
+    background: linear-gradient(228deg, #19FB9B 0%, #8C01FA 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 0;
+}
+#right_text_section>p{
+    margin: 0;
+}
+/* ----------------------- second page  ----------------------------*/
+/* ----------------------- third page  ----------------------------*/
+#third_page{
+    height: 100vh;
+    width: 100vw;
+    background-color: #000000;
+    display: flex;
+    align-items:start;
+    justify-content: center;
+}
+#third_page>section{
+    height: 80vh;
+    width: 20vw;
+    margin: 3vh 5vw 0 0;
+    display: flex;
+    flex-direction: column;
+}
+#col_1_page3{
+    padding-top: 5vh;
+}
+#col_2_page3{
+    padding-top: 7vh;
+}
+#third_page>section>h3{
+    margin: 0;
+}
+#third_page>section>p{
+    line-height: 16px;
+}
+#third_page>section>div{
+    height: 30vh;
+    width: 20vw;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 11vh;
+}
+#third_page>section>div>h5{
+    font-size: 28px;
+    margin: 0;
+}
+#third_page>section>div>p{
+    color: #C4C4C4;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0;
+    margin: 0;
+}
+#third_page>section>div>h6{
+    margin: 0;
+    text-align: left;
+}#third_page>section>div>p>a{
+    margin: 0;
+    color: #19FB9B;
+}
+/* ----------------------- third page  ----------------------------*/
+/* ----------------------- fourth page  ----------------------------*/
+#fourth_page{
+    height: 100vh;
+    width: 100vw;
+    background-color: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#vision_segment{
+    height: 70vh;
+    width: 70vw;
+    display: grid;
+    grid-template-areas:
+    "title_page4 title_page4 set_buttons set_buttons"
+    "grafity grafity text_page4 text_page4"
+    "image_bar image_bar image_bar image_bar"
+    ;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 4fr 1fr;
+}
+#title_page4{
+    height: 10vh;
+    grid-area: title_page4;
+}
+#title_page4>h4{
+    font-size: 39px;
+    margin: 0;
+}
+#set_buttons{
+    height: 10vh;
+    grid-area: set_buttons;
+    display: flex;
+    justify-content: right;
+}
+#set_buttons>#first_button_page4{
+    height: 6vh;
+    width: fit-content;
+    border-radius: 15px;
+    border: 1px solid #A962FF;
+    background: #111;
+}
+#set_buttons>button{
+    height: 6vh;
+    width: fit-content;
+    border-radius: 15px;
+    border: 1px solid #111;
+    background: #111;
+    text-transform: none;
+    margin-left: 1vw;
+}
+#set_buttons>button>p{
+    font-size: 16px;
+    line-height: 27px;
+    margin: 0;
+}
+#grafity{
+    height: 50vh;
+    width: 35vw;
+    grid-area: grafity;
+}
+#text_page4{
+    background-color: #1A1A1A;
+    border-top-right-radius: 16px;
+    border-bottom-right-radius: 16px;
+    padding: 0 2vw;
+    grid-area: text_page4;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+}
+#text_page4>p{
+    font-size: 21px;
+    line-height: 27px;
+}
+#text_page4>a{
+    color: #A962FF;
+    font-size: 21px;
+    line-height: 27px;
+    text-decoration: none;
+}
+#image_bar{
+    grid-area: image_bar;
+    justify-content: space-around;
+    border-radius: 16px;
+    background: rgba(38, 31, 38, 0.30);
+    margin-top: 2vh;
+}
+
+/* ----------------------- fourth page  ----------------------------*/
+.flex_centered{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navigation{
+    color: #848895;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 17px;
+    line-height: 28px;
+    text-decoration: none;
+}
+.font_helvetica{
+    color: #FFF;
+    font-family: Helvetica, sans-serif;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 46px;
+    letter-spacing: 1px;
+}
+.font_roboto{
+    color: #C4C4C4;
+    font-family: Roboto,sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    text-transform: uppercase;
+}
