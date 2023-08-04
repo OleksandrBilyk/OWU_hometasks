@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33b97d5a-cb17-48f6-9d7d-e9d1d375fae7" name="Changes" comment="Lesson5 done">
-      <change afterPath="$PROJECT_DIR$/Lesson_6/task1/lesson6_task1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_6/task1/style_task1_desktop.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_6/task1/style_task1_phone.css" afterDir="false" />
+    <list default="true" id="33b97d5a-cb17-48f6-9d7d-e9d1d375fae7" name="Changes" comment="course project 4/8/23 - Done">
+      <change beforePath="$PROJECT_DIR$/K_project/styles/solana_style_desktop.css" beforeDir="false" afterPath="$PROJECT_DIR$/K_project/styles/solana_style_desktop.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/OWU_study/My_hometask/HTML/HTML_study/Lesson_5/Task2/icons",
+    "last_opened_file_path": "D:/OWU_study/My_hometask/HTML/HTML_study/K_project/images",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -61,12 +59,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\OWU_study\My_hometask\HTML\HTML_study\Lesson_5\Task2\icons" />
-      <recent name="D:\OWU_study\My_hometask\HTML\HTML_study\Lesson_5\Task1" />
-      <recent name="D:\OWU_study\My_hometask\HTML\HTML_study\Lesson_4\task6" />
-      <recent name="D:\OWU_study\My_hometask\HTML\HTML_study\Lesson_4" />
+      <recent name="D:\OWU_study\My_hometask\HTML\HTML_study\K_project\images" />
+      <recent name="D:\OWU_study\My_hometask\HTML\HTML_study\K_project\images\footer" />
+      <recent name="D:\OWU_study\My_hometask\HTML\HTML_study\K_project\images\page_5" />
+      <recent name="D:\OWU_study\My_hometask\HTML\HTML_study\K_project\images\page_4" />
+      <recent name="D:\OWU_study\My_hometask\HTML\HTML_study\K_project\images\favicon" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OWU_study\My_hometask\HTML\HTML_study\K_project\images\footer" />
       <recent name="D:\OWU_study\My_hometask\HTML\HTML_study\Lesson_4\task1" />
     </key>
   </component>
@@ -80,7 +80,7 @@
       <updated>1689155550322</updated>
       <workItem from="1689155551309" duration="272000" />
       <workItem from="1689689501069" duration="13000" />
-      <workItem from="1689699929470" duration="128554000" />
+      <workItem from="1689699929470" duration="236036000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson3 done">
       <option name="closed" value="true" />
@@ -122,7 +122,39 @@
       <option name="project" value="LOCAL" />
       <updated>1690375032209</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lesson6 done">
+      <option name="closed" value="true" />
+      <created>1690548130057</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690548130057</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Lesson6 done + train grid">
+      <option name="closed" value="true" />
+      <created>1690551377255</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690551377255</updated>
+    </task>
+    <task id="LOCAL-00008" summary="course project 1/8/23">
+      <option name="closed" value="true" />
+      <created>1690912979904</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1690912979904</updated>
+    </task>
+    <task id="LOCAL-00009" summary="course project 4/8/23 - Done">
+      <option name="closed" value="true" />
+      <created>1691132496927</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1691132496927</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +177,10 @@
     <MESSAGE value="Lesson4 task1-3" />
     <MESSAGE value="Lesson4 full done" />
     <MESSAGE value="Lesson5 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson5 done" />
+    <MESSAGE value="Lesson6 done" />
+    <MESSAGE value="Lesson6 done + train grid" />
+    <MESSAGE value="course project 1/8/23" />
+    <MESSAGE value="course project 4/8/23 - Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="course project 4/8/23 - Done" />
   </component>
 </project>
