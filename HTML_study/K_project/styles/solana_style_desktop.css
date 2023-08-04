@@ -412,7 +412,7 @@ h6{
 footer{
     height: 50vh;
     width: 100vw;
-    border-radius: 12px 12px 0px 0px;
+    border-radius: 12px 12px 0 0;
     border: 1px solid #141414;
     background: #000508;
     margin-top: -2vh;
