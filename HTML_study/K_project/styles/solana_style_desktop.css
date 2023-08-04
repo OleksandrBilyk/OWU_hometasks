@@ -37,17 +37,14 @@ nav.flex_centered{
     display: flex;
     flex-direction: column;
 }
-h2{
-    color: #FFF;
+#hero_content>h2{
     text-align: center;
-    font-family: Helvetica, sans-serif;
     font-size: 70px;
     line-height: 76px;
-    letter-spacing: 0.68px;
     margin: 0;
 }
 #hero_content>p{
-    width: 45vw;
+    width: 42vw;
     color: #FFF;
     text-align: center;
     font-family: Helvetica, sans-serif;
@@ -88,15 +85,11 @@ button{
     flex-direction: column;
     align-items: center;
 }
-h6{
+#client>h6{
     color: #618ADC;
     text-align: center;
-    font-family: Helvetica, sans-serif;
     font-size: 15px;
-    font-style: normal;
-    font-weight: 400;
     line-height: 17px;
-    letter-spacing: 1px;
     text-transform: uppercase;
     margin: 0 0 4vh 0;
 }
